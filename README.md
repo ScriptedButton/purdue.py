@@ -175,15 +175,15 @@ Project Link: [https://github.com/ScriptedButton/purdue.py](https://github.com/S
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ScriptedButton/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/ScriptedButton/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ScriptedButton/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/ScriptedButton/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/ScriptedButton/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/ScriptedButton/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ScriptedButton/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/ScriptedButton/repo/issues
-[license-shield]: https://img.shields.io/github/license/ScriptedButton/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ScriptedButton/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ScriptedButton/purdue.py.svg?style=for-the-badge
+[contributors-url]: https://github.com/ScriptedButton/purdue.py/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ScriptedButton/purdue.py.svg?style=for-the-badge
+[forks-url]: https://github.com/ScriptedButton/purdue.py/network/members
+[stars-shield]: https://img.shields.io/github/stars/ScriptedButton/purdue.py.svg?style=for-the-badge
+[stars-url]: https://github.com/ScriptedButton/purdue.py/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ScriptedButton/purdue.py.svg?style=for-the-badge
+[issues-url]: https://github.com/ScriptedButton/purdue.py/issues
+[license-shield]: https://img.shields.io/github/license/ScriptedButton/purdue.py.svg?style=for-the-badge
+[license-url]: https://github.com/ScriptedButton/purdue.py/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ScriptedButton
